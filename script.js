@@ -1,3 +1,5 @@
+//Ainda aprendendo java e usando ia 
+
 // Variáveis que guardam o estado da calculadora
 let expressao = '';   // ex: "7 + 3 * "
 let atual     = '0';  // número que aparece no display
